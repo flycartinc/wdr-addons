@@ -1,0 +1,10 @@
+{
+	"collections":
+	{
+		"name": "Collections",
+		"description": "It allows you to create your favourite filter collection and use it in any rules.",
+		"icon_url": "https://www.flycart.org/wp-content/uploads/2022/06/woocommerce_discount_rules_preview.png",
+		"purchase_url": "https://www.flycart.org/products",
+		"is_pro": false
+	}
+}
