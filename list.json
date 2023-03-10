@@ -8,5 +8,15 @@
     "page_url": "{wdr_page}&tab=collections",
     "settings_url": "",
     "is_pro": false
+  },
+  "omnibus": {
+    "name": "Omnibus",
+    "description": "It helps to display the lowest price of a product for the last n days.",
+    "icon_url": "https://www.flycart.org/wp-content/uploads/2022/06/woocommerce_discount_rules_preview.png",
+    "purchase_url": "https://www.flycart.org/products",
+    "plugin_file": "wdr-omnibus/wdr-omnibus.php",
+    "page_url": "{addon_page}",
+    "settings_url": "{addon_page}&section=settings",
+    "is_pro": false
   }
 }
