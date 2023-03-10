@@ -5,8 +5,8 @@
     "icon_url": "https://www.flycart.org/wp-content/uploads/2022/06/woocommerce_discount_rules_preview.png",
     "purchase_url": "https://www.flycart.org/products",
     "plugin_file": "wdr-collections/wdr-collections.php",
-    "page_url": "",
-    "has_settings": false,
+    "page_url": "{wdr_page}&tab=collections",
+    "settings_url": "",
     "is_pro": false
   }
 }
