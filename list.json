@@ -2,7 +2,7 @@
   "collections": {
     "name": "Collections",
     "description": "It allows you to create your favourite filter collection and use it in any rules.",
-    "icon_url": "https://www.flycart.org/wp-content/uploads/2022/06/woocommerce_discount_rules_preview.png",
+    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/collections.png",
     "product_url": "https://www.flycart.org/products",
     "download_url": "",
     "plugin_file": "wdr-collections/wdr-collections.php",
@@ -15,7 +15,7 @@
   "omnibus_directive": {
     "name": "Omnibus Directive",
     "description": "It helps to display the lowest price of a product for the last n days.",
-    "icon_url": "https://www.flycart.org/wp-content/uploads/2022/06/woocommerce_discount_rules_preview.png",
+    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/omnibus-directive.png",
     "product_url": "https://www.flycart.org/products",
     "download_url": "",
     "plugin_file": "wdr-omnibus-directive/wdr-omnibus-directive.php",
