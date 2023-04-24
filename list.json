@@ -24,5 +24,18 @@
     "requires_core": "2.5.0",
     "requires_pro": "",
     "is_pro": false
+  },
+  "additional_filters": {
+    "name": "Additional Filters",
+    "description": "It helps to load extra filters in rules.",
+    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/additional-filters.png",
+    "product_url": "https://www.flycart.org/products",
+    "download_url": "",
+    "plugin_file": "wdr-additional-filters/wdr-additional-filters.php",
+    "page_url": "",
+    "settings_url": "{addon_page}&section=settings",
+    "requires_core": "2.5.0",
+    "requires_pro": "2.5.0",
+    "is_pro": true
   }
 }
