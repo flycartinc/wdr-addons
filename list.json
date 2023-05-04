@@ -2,7 +2,7 @@
   "collections": {
     "name": "Collections",
     "description": "It allows you to create your favourite filter collection and use it in any rules.",
-    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/collections.png",
+    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/collections.png",
     "product_url": "https://www.flycart.org/products",
     "download_url": "https://www.dropbox.com/s/i47jdh9ndqlknk6/wdr-collections-1.0.0-pro.zip?dl=1",
     "plugin_file": "wdr-collections/wdr-collections.php",
