@@ -14,7 +14,7 @@
   },
   "omnibus_directive": {
     "name": "Omnibus Directive",
-    "description": "It helps to display the lowest price of a product for the last n days.",
+    "description": "Adds compatibility for the Omnibus plugin for WordPress with the Discount Rules.",
     "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/omnibus-directive.png",
     "product_url": "https://www.flycart.org/products",
     "download_url": "",
