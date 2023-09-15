@@ -11,5 +11,18 @@
     "requires_core": "2.4.4",
     "requires_pro": "2.4.4",
     "is_pro": false
+  },
+  "omnibus_directive": {
+    "name": "Omnibus Directive",
+    "description": "It helps to display the lowest price of a product for the last n days.",
+    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/omnibus-directive.png",
+    "product_url": "https://www.flycart.org/products",
+    "download_url": "",
+    "plugin_file": "wdr-omnibus-directive/wdr-omnibus-directive.php",
+    "page_url": "{addon_page}",
+    "settings_url": "{addon_page}&section=settings",
+    "requires_core": "2.6.0",
+    "requires_pro": "",
+    "is_pro": false
   }
 }
