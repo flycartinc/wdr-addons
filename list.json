@@ -17,7 +17,7 @@
     "description": "Adds compatibility for the Omnibus plugin for WordPress with the Discount Rules.",
     "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/omnibus-directive.png",
     "product_url": "https://www.flycart.org/products",
-    "download_url": "",
+    "download_url": "https://www.dropbox.com/scl/fi/7vr4dhunk05va0ohaijrv/wdr-omnibus-directive-1.0.0.zip?rlkey=1qt2tne2fbqthoscnrh1dg5ak&dl=1",
     "plugin_file": "wdr-omnibus-directive/wdr-omnibus-directive.php",
     "page_url": "{addon_page}",
     "settings_url": "{addon_page}&section=settings",
