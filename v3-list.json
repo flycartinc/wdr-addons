@@ -6,10 +6,9 @@
     "product_url": "https://www.flycart.org/products/wordpress/woocommerce-discount-rules/addons/collection-addon",
     "download_url": "https://www.dropbox.com/scl/fi/rjbduq9r3lab394ojzqay/wdr-collections-1.2.0-pro.zip?rlkey=l1v35qp904rxtffjh3dvhah3r&dl=1",
     "plugin_file": "wdr-collections/wdr-collections.php",
-    "page_url": "{wdr_page}&tab=collections",
+    "page_url": "/collections",
     "settings_url": "",
-    "requires_core": "2.4.4",
-    "requires_pro": "2.4.4",
+    "requires": {"wdr_core": "3.0.0", "wdr_pro": "3.0.0"},
     "is_pro": false
   },
   "omnibus_directive": {
@@ -21,8 +20,7 @@
     "plugin_file": "wdr-omnibus-directive/wdr-omnibus-directive.php",
     "page_url": "{addon_page}",
     "settings_url": "{addon_page}&section=settings",
-    "requires_core": "2.6.0",
-    "requires_pro": "",
+    "requires": {"wdr_core": "3.0.0"},
     "is_pro": false
   }
 }
