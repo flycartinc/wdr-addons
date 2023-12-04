@@ -18,8 +18,8 @@
     "product_url": "https://www.flycart.org/products",
     "download_url": "https://www.dropbox.com/scl/fi/7vr4dhunk05va0ohaijrv/wdr-omnibus-directive-1.0.0.zip?rlkey=1qt2tne2fbqthoscnrh1dg5ak&dl=1",
     "plugin_file": "wdr-omnibus-directive/wdr-omnibus-directive.php",
-    "page_url": "{addon_page}",
-    "settings_url": "{addon_page}&section=settings",
+    "page_url": "",
+    "settings_url": "{addon_page}",
     "requires": {"wdr_core": "3.0.0"},
     "is_pro": false
   }
