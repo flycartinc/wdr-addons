@@ -22,5 +22,17 @@
     "settings_url": "{addon_page}",
     "requires": {"wdr_core": "3.0.0"},
     "is_pro": false
+  },
+  "woo_discount_translate": {
+    "name": "Woo Discount Translate",
+    "description": "This add-on used to translate dynamic string for Woo Discount Rules and related add-on.",
+    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/woo-discount-translate.png",
+    "product_url": "https://www.flycart.org/products",
+    "download_url": "https://www.dropbox.com/scl/fi/7vr4dhunk05va0ohaijrv/wdr-omnibus-directive-1.0.0.zip?rlkey=1qt2tne2fbqthoscnrh1dg5ak&dl=1",
+    "plugin_file": "woo-discount-translate/woo-discount-translate.php",
+    "page_url": "",
+    "settings_url": "{addon_page}",
+    "requires": {"wdr_core": "3.0.0"},
+    "is_pro": false
   }
 }
