@@ -4,7 +4,7 @@
     "description": "Create a collection of products using conditions and filters. You can then set up a discount specific to the collection.",
     "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/collections.png",
     "product_url": "https://www.flycart.org/products/wordpress/woocommerce-discount-rules/addons/collection-addon",
-    "download_url": "https://www.dropbox.com/scl/fi/rjbduq9r3lab394ojzqay/wdr-collections-1.2.0-pro.zip?rlkey=l1v35qp904rxtffjh3dvhah3r&dl=1",
+    "download_url": "https://www.dropbox.com/scl/fi/wqmezg0chwwlwyosq4uqp/wdr-collections-1.2.1-pro.zip?rlkey=35gj7uq0wmwwfli2gdbit3107&dl=1",
     "plugin_file": "wdr-collections/wdr-collections.php",
     "page_url": "{wdr_page}&tab=collections",
     "settings_url": "",
