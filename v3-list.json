@@ -53,7 +53,7 @@
     "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/woo-discount-compatibility.png",
     "product_url": "https://www.flycart.org/products",
     "download_url": "",
-    "plugin_file": "woo-discount-translate/woo-discount-translate.php",
+    "plugin_file": "woo-wholesale-price-compatibility/woo-wholesale-price-compatibility.php",
     "page_url": "",
     "settings_url": "{addon_page}",
     "requires": {"wp":"","wc": "","wdr_core": "3.0.0","wdr_pro": "3.0.0"},
