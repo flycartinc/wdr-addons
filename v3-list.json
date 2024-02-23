@@ -46,5 +46,17 @@
     "settings_url": "{addon_page}",
     "requires": {"wp":"","wc": "","wdr_core": "3.0.0","wdr_pro": "3.0.0"},
     "is_pro": false
+  },
+  "woo_wholesale_price_compatibility": {
+    "name": "Woo wholesale price compatibility",
+    "description": "This add-on used to translate dynamic string for Woo Discount Rules and related add-on.",
+    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/woo-discount-compatibility.png",
+    "product_url": "https://www.flycart.org/products",
+    "download_url": "",
+    "plugin_file": "woo-discount-translate/woo-discount-translate.php",
+    "page_url": "",
+    "settings_url": "{addon_page}",
+    "requires": {"wp":"","wc": "","wdr_core": "3.0.0","wdr_pro": "3.0.0"},
+    "is_pro": false
   }
 }
