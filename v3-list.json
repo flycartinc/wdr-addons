@@ -50,7 +50,7 @@
   "woo_wholesale_price_compatibility": {
     "name": "Woo wholesale price compatibility",
     "description": "This add-on used to give compatibility of woocommerce wholesale prices by rymerawebco.",
-    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/woo-wholesale-price-compatibility.png",
+    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/woo-wholesale-price-compatibility.svg",
     "product_url": "https://www.flycart.org/products",
     "download_url": "",
     "plugin_file": "woo-wholesale-price-compatibility/woo-wholesale-price-compatibility.php",
@@ -62,7 +62,7 @@
   "woo_facebook_compatibility": {
     "name": "Woo facebook product price compatibility",
     "description": "This add-on used to give compatibility of woocommerce facebook product prices by facebook.",
-    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/woo-facebook-compatibility.png",
+    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/woo-facebook-compatibility.svg",
     "product_url": "https://www.flycart.org/products",
     "download_url": "",
     "plugin_file": "woo-facebook-compatibility/woo-facebook-compatibility.php",
@@ -74,7 +74,7 @@
   "woo_country_based_compatibility": {
     "name": "Woo country based price compatibility",
     "description": "This add-on used to give compatibility of woocommerce country based prices by oscargare.",
-    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/woo-country-based-compatibility.png",
+    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/woo-country-based-compatibility.svg",
     "product_url": "https://www.flycart.org/products",
     "download_url": "",
     "plugin_file": "woo-country-based-compatibility/woo-country-based-compatibility.php",
@@ -86,7 +86,7 @@
   "woo_extra_product_compatibility": {
     "name": "Woo extra product compatibility",
     "description": "This add-on used to give compatibility of woocommerce extra product option by themehigh.",
-    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/woo-extra-product-compatibility.png",
+    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/woo-extra-product-compatibility.svg",
     "product_url": "https://www.flycart.org/products",
     "download_url": "",
     "plugin_file": "woo-extra-product-compatibility/woo-extra-product-compatibility.php",
