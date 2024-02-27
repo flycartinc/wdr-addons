@@ -55,7 +55,7 @@
     "download_url": "",
     "plugin_file": "woo-wholesale-price-compatibility/woo-wholesale-price-compatibility.php",
     "page_url": "",
-    "settings_url": "",
+    "settings_url": "{addon_page}",
     "requires": {"wp":"","wc": "","wdr_core": "3.0.0","wdr_pro": "3.0.0"},
     "is_pro": false
   }
