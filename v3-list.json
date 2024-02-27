@@ -49,13 +49,49 @@
   },
   "woo_wholesale_price_compatibility": {
     "name": "Woo wholesale price compatibility",
-    "description": "This add-on used to translate dynamic string for Woo Discount Rules and related add-on.",
-    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/woo-discount-compatibility.png",
+    "description": "This add-on used to give compatibility of woocommerce wholesale prices by rymerawebco.",
+    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/woo-wholesale-price-compatibility.png",
     "product_url": "https://www.flycart.org/products",
     "download_url": "",
     "plugin_file": "woo-wholesale-price-compatibility/woo-wholesale-price-compatibility.php",
     "page_url": "",
-    "settings_url": "{addon_page}",
+    "settings_url": "",
+    "requires": {"wp":"","wc": "","wdr_core": "3.0.0","wdr_pro": "3.0.0"},
+    "is_pro": false
+  },
+  "woo_facebook_compatibility": {
+    "name": "Woo facebook product price compatibility",
+    "description": "This add-on used to give compatibility of woocommerce facebook product prices by facebook.",
+    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/woo-facebook-compatibility.png",
+    "product_url": "https://www.flycart.org/products",
+    "download_url": "",
+    "plugin_file": "woo-wholesale-price-compatibility/woo-wholesale-price-compatibility.php",
+    "page_url": "",
+    "settings_url": "",
+    "requires": {"wp":"","wc": "","wdr_core": "3.0.0","wdr_pro": "3.0.0"},
+    "is_pro": false
+  },
+  "woo_country_based_compatibility": {
+    "name": "Woo country based price compatibility",
+    "description": "This add-on used to give compatibility of woocommerce country based prices by oscargare.",
+    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/woo-country-based-compatibility.png",
+    "product_url": "https://www.flycart.org/products",
+    "download_url": "",
+    "plugin_file": "woo-wholesale-price-compatibility/woo-wholesale-price-compatibility.php",
+    "page_url": "",
+    "settings_url": "",
+    "requires": {"wp":"","wc": "","wdr_core": "3.0.0","wdr_pro": "3.0.0"},
+    "is_pro": false
+  },
+  "woo_extra_product_compatibility": {
+    "name": "Woo extra product compatibility",
+    "description": "This add-on used to give compatibility of woocommerce extra product option by themehigh.",
+    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/woo-extra-product-compatibility.png",
+    "product_url": "https://www.flycart.org/products",
+    "download_url": "",
+    "plugin_file": "woo-wholesale-price-compatibility/woo-wholesale-price-compatibility.php",
+    "page_url": "",
+    "settings_url": "",
     "requires": {"wp":"","wc": "","wdr_core": "3.0.0","wdr_pro": "3.0.0"},
     "is_pro": false
   }
