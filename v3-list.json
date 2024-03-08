@@ -58,5 +58,17 @@
     "settings_url": "",
     "requires": {"wp":"","wc": "","wdr_core": "3.0.0","wdr_pro": "3.0.0"},
     "is_pro": false
+  },
+  "onsale_page": {
+    "name": "OnSale Page",
+    "description": "Create On-sale Page products using rule based show the on-sale product.",
+    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/sale-page.png",
+    "product_url": "https://www.flycart.org/products",
+    "download_url": "",
+    "plugin_file": "wdr-onsale-page/wdr-onsale-page.php",
+    "page_url": "",
+    "settings_url": "{addon_page}",
+    "requires": {"wp":"","wc": "","wdr_core": "3.0.0","wdr_pro": "3.0.0"},
+    "is_pro": true
   }
 }
