@@ -1,44 +1,8 @@
 {
-  "collections": {
-    "name": "Collections",
-    "description": "Create a collection of products using conditions and filters. You can then set up a discount specific to the collection.",
-    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/collections.png",
-    "product_url": "https://www.flycart.org/products/wordpress/woocommerce-discount-rules/addons/collection-addon",
-    "download_url": "https://www.dropbox.com/scl/fi/rjbduq9r3lab394ojzqay/wdr-collections-1.2.0-pro.zip?rlkey=l1v35qp904rxtffjh3dvhah3r&dl=1",
-    "plugin_file": "wdr-collections/wdr-collections.php",
-    "page_url": "/collections",
-    "settings_url": "",
-    "requires": {"wdr_core": "3.0.0", "wdr_pro": "3.0.0"},
-    "is_pro": false
-  },
-  "omnibus_directive": {
-    "name": "Omnibus Directive",
-    "description": "Adds compatibility for the Omnibus plugin for WordPress with the Discount Rules.",
-    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/omnibus-directive.png",
-    "product_url": "https://www.flycart.org/products",
-    "download_url": "https://www.dropbox.com/scl/fi/7vr4dhunk05va0ohaijrv/wdr-omnibus-directive-1.0.0.zip?rlkey=1qt2tne2fbqthoscnrh1dg5ak&dl=1",
-    "plugin_file": "wdr-omnibus-directive/wdr-omnibus-directive.php",
-    "page_url": "",
-    "settings_url": "{addon_page}",
-    "requires": {"wdr_core": "3.0.0"},
-    "is_pro": false
-  },
-  "onsale_page": {
-    "name": "OnSale Page",
-    "description": "Create On-sale Page products using rule based show the on-sale product.",
-    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/sale-page.png",
-    "product_url": "https://www.flycart.org/products",
-    "download_url": "",
-    "plugin_file": "wdr-onsale-page/wdr-onsale-page.php",
-    "page_url": "",
-    "settings_url": "{addon_page}",
-    "requires": {"wp":"","wc": "","wdr_core": "3.0.0","wdr_pro": "3.0.0"},
-    "is_pro": true
-  },
   "woo_discount_translate": {
     "name": "Woo Discount Translate",
     "description": "This add-on used to translate dynamic string for Woo Discount Rules and related add-on.",
-    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/woo-discount-translate.png",
+    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@new/icons/translate.png",
     "product_url": "https://www.flycart.org/products",
     "download_url": "",
     "plugin_file": "woo-discount-translate/woo-discount-translate.php",
@@ -47,10 +11,10 @@
     "requires": {"wp":"","wc": "","wdr_core": "3.0.0","wdr_pro": "3.0.0"},
     "is_pro": false
   },
-  "woo_wholesale_price_compatibility": {
+  "compatibility_wholesale_price_rymerawebco": {
     "name": "Woo wholesale price compatibility",
     "description": "This add-on used to give compatibility of woocommerce wholesale prices by rymerawebco.",
-    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/woo-wholesale-price-compatibility.svg",
+    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@new/icons/compatibility_wholesale_price_rymerawebco.svg",
     "product_url": "https://www.flycart.org/products",
     "download_url": "",
     "plugin_file": "woo-wholesale-price-compatibility/woo-wholesale-price-compatibility.php",
@@ -59,10 +23,10 @@
     "requires": {"wp":"","wc": "","wdr_core": "3.0.0","wdr_pro": "3.0.0"},
     "is_pro": false
   },
-  "woo_facebook_compatibility": {
+  "compatibility_facebook": {
     "name": "Woo facebook product price compatibility",
     "description": "This add-on used to give compatibility of woocommerce facebook product prices by facebook.",
-    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/woo-facebook-compatibility.svg",
+    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@new/icons/compatibility_facebook.svg",
     "product_url": "https://www.flycart.org/products",
     "download_url": "",
     "plugin_file": "woo-facebook-compatibility/woo-facebook-compatibility.php",
@@ -71,10 +35,10 @@
     "requires": {"wp":"","wc": "","wdr_core": "3.0.0","wdr_pro": "3.0.0"},
     "is_pro": false
   },
-  "woo_country_based_compatibility": {
+  "compatibility_country_based_oscargare": {
     "name": "Woo country based price compatibility",
     "description": "This add-on used to give compatibility of woocommerce country based prices by oscargare.",
-    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/woo-country-based-compatibility.svg",
+    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@new/icons/compatibility_country_based_oscargare.svg",
     "product_url": "https://www.flycart.org/products",
     "download_url": "",
     "plugin_file": "woo-country-based-compatibility/woo-country-based-compatibility.php",
@@ -83,10 +47,10 @@
     "requires": {"wp":"","wc": "","wdr_core": "3.0.0","wdr_pro": "3.0.0"},
     "is_pro": false
   },
-  "woo_extra_product_compatibility": {
+  "compatibility_extra_product_themehigh": {
     "name": "Woo extra product compatibility",
     "description": "This add-on used to give compatibility of woocommerce extra product option by themehigh.",
-    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@master/icons/woo-extra-product-compatibility.svg",
+    "icon_url": "https://cdn.jsdelivr.net/gh/flycartinc/wdr-addons@new/icons/compatibility_extra_product_themehigh.svg",
     "product_url": "https://www.flycart.org/products",
     "download_url": "",
     "plugin_file": "woo-extra-product-compatibility/woo-extra-product-compatibility.php",
