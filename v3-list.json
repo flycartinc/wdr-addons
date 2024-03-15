@@ -6,8 +6,8 @@
     "product_url": "https://www.flycart.org/products",
     "download_url": "",
     "plugin_file": "woo-discount-translate/woo-discount-translate.php",
-    "page_url": "",
-    "settings_url": "{addon_page}",
+    "page_url": "{addon_page}",
+    "settings_url": "",
     "requires": {"wp":"","wc": "","wdr_core": "3.0.0","wdr_pro": "3.0.0"},
     "is_pro": false
   },
