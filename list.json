@@ -2,7 +2,7 @@
   "collections": {
     "name": "Collections",
     "description": "Create a collection of products using conditions and filters. You can then set up a discount specific to the collection.",
-    "icon_url": "https://raw.githubusercontent.com/flycartinc/wdr-addons/v3/icons-v3/collections.svg",
+    "icon_url": "https://raw.githubusercontent.com/flycartinc/wdr-addons/v3/icons-v3/wdr-collections.png",
     "product_url": "https://www.flycart.org/products/wordpress/woocommerce-discount-rules/addons/collection-addon",
     "download_url": "https://www.dropbox.com/scl/fi/wqmezg0chwwlwyosq4uqp/wdr-collections-1.2.1-pro.zip?rlkey=35gj7uq0wmwwfli2gdbit3107&dl=1",
     "plugin_file": "wdr-collections/wdr-collections.php",
@@ -15,7 +15,7 @@
   "omnibus_directive": {
     "name": "Omnibus Directive",
     "description": "Adds compatibility for the Omnibus plugin for WordPress with the Discount Rules.",
-    "icon_url": "https://raw.githubusercontent.com/flycartinc/wdr-addons/v3/icons-v3/omnibus.svg",
+    "icon_url": "https://raw.githubusercontent.com/flycartinc/wdr-addons/v3/icons-v3/wdr-omnibus-directive.png",
     "product_url": "https://www.flycart.org/products",
     "download_url": "https://www.dropbox.com/scl/fi/7vr4dhunk05va0ohaijrv/wdr-omnibus-directive-1.0.0.zip?rlkey=1qt2tne2fbqthoscnrh1dg5ak&dl=1",
     "plugin_file": "wdr-omnibus-directive/wdr-omnibus-directive.php",
