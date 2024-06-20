@@ -5,7 +5,7 @@
     "author": "Flycart",
     "version": "1.0.0",
     "description": "Useful to translate dynamic strings. Supported translation plugins: WPML and Loco Translate.",
-    "icon_url": "https://raw.githubusercontent.com/flycartinc/wdr-addons/v3/icons-v3/wdr-translate.png",
+    "icon_url": "https://raw.githubusercontent.com/flycartinc/wdr-addons/v3-new/icons-v3/wdr-translate.png",
     "addon_url": "https://www.flycart.org/products",
     "download_url": "",
     "plugin_file": "wdr-translate/wdr-translate.php",
