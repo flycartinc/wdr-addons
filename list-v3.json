@@ -78,89 +78,89 @@
       }
     },
     "is_pro": false
-  },
-  "compat_fb": {
-    "name": "Facebook plugin",
-    "label": "Compatibility",
-    "author": "Flycart",
-    "version": "1.0.0",
-    "description": "This adds compatibility for the Facebook for WooCommerce plugin by Facebook.",
-    "icon_url": "https://raw.githubusercontent.com/flycartinc/wdr-addons/v3/icons-v3/wdr-facebook-compatibility.png",
-    "addon_url": "https://www.flycart.org/products",
-    "download_url": "",
-    "plugin_file": "wdr-facebook-compatibility/wdr-facebook-compatibility.php",
-    "page_url": "",
-    "settings_url": "",
-    "requires": {
-      "wp": "5.3",
-      "wc": "4.4",
-      "wdr_core": "3.0",
-      "wdr_pro": "3.0"
-    },
-    "dependencies": {},
-    "is_pro": false
-  },
-  "compat_wsp": {
-    "name": "Wholesale prices",
-    "label": "Compatibility",
-    "author": "Flycart",
-    "version": "1.0.0",
-    "description": "This adds compatibility with the WooCommerce Wholesale Prices by Rymera Web Co.",
-    "icon_url": "https://raw.githubusercontent.com/flycartinc/wdr-addons/v3/icons-v3/wdr-wholesale-prices-compatibility.png",
-    "addon_url": "https://www.flycart.org/products",
-    "download_url": "",
-    "plugin_file": "wdr-wholesale-prices-compatibility/wdr-wholesale-prices-compatibility.php",
-    "page_url": "",
-    "settings_url": "",
-    "requires": {
-      "wp": "5.3",
-      "wc": "4.4",
-      "wdr_core": "3.0",
-      "wdr_pro": "3.0"
-    },
-    "dependencies": {},
-    "is_pro": false
-  },
-  "compat_cbp": {
-    "name": "Country based pricing",
-    "label": "Compatibility",
-    "author": "Flycart",
-    "version": "1.0.0",
-    "description": "This adds compatibility with the Price Based on Country plugin for WooCommerce by Oscar Gare.",
-    "icon_url": "https://raw.githubusercontent.com/flycartinc/wdr-addons/v3/icons-v3/wdr-country-based-pricing-compatibility.png",
-    "addon_url": "https://www.flycart.org/products",
-    "download_url": "",
-    "plugin_file": "wdr-country-based-pricing-compatibility/wdr-country-based-pricing-compatibility.php",
-    "page_url": "",
-    "settings_url": "",
-    "requires": {
-      "wp": "5.3",
-      "wc": "4.4",
-      "wdr_core": "3.0",
-      "wdr_pro": "3.0"
-    },
-    "dependencies": {},
-    "is_pro": false
-  },
-  "compat_epo": {
-    "name": "Extra product options",
-    "label": "Compatibility",
-    "author": "Flycart",
-    "version": "1.0.0",
-    "description": "This adds compatibility with the Extra product options For WooCommerce by ThemeHigh.",
-    "icon_url": "https://raw.githubusercontent.com/flycartinc/wdr-addons/v3/icons-v3/wdr-product-options-compatibility.png",
-    "addon_url": "https://www.flycart.org/products",
-    "download_url": "",
-    "plugin_file": "wdr-product-options-compatibility/wdr-product-options-compatibility.php",
-    "page_url": "",
-    "settings_url": "",
-    "requires": {
-      "wp": "5.3",
-      "wc": "4.4",
-      "wdr_core": "3.0",
-      "wdr_pro": "3.0"
-    },
-    "dependencies": {},
-    "is_pro": false
   }
+//  "compat_fb": {
+//    "name": "Facebook plugin",
+//    "label": "Compatibility",
+//    "author": "Flycart",
+//    "version": "1.0.0",
+//    "description": "This adds compatibility for the Facebook for WooCommerce plugin by Facebook.",
+//    "icon_url": "https://raw.githubusercontent.com/flycartinc/wdr-addons/v3/icons-v3/wdr-facebook-compatibility.png",
+//    "addon_url": "https://www.flycart.org/products",
+//    "download_url": "",
+//    "plugin_file": "wdr-facebook-compatibility/wdr-facebook-compatibility.php",
+//    "page_url": "",
+//    "settings_url": "",
+//    "requires": {
+//      "wp": "5.3",
+//      "wc": "4.4",
+//      "wdr_core": "3.0",
+//      "wdr_pro": "3.0"
+//    },
+//    "dependencies": {},
+//    "is_pro": false
+//  },
+//  "compat_wsp": {
+//    "name": "Wholesale prices",
+//    "label": "Compatibility",
+//    "author": "Flycart",
+//    "version": "1.0.0",
+//    "description": "This adds compatibility with the WooCommerce Wholesale Prices by Rymera Web Co.",
+//    "icon_url": "https://raw.githubusercontent.com/flycartinc/wdr-addons/v3/icons-v3/wdr-wholesale-prices-compatibility.png",
+//    "addon_url": "https://www.flycart.org/products",
+//    "download_url": "",
+//    "plugin_file": "wdr-wholesale-prices-compatibility/wdr-wholesale-prices-compatibility.php",
+//    "page_url": "",
+//    "settings_url": "",
+//    "requires": {
+//      "wp": "5.3",
+//      "wc": "4.4",
+//      "wdr_core": "3.0",
+//      "wdr_pro": "3.0"
+//    },
+//    "dependencies": {},
+//    "is_pro": false
+//  },
+//  "compat_cbp": {
+//    "name": "Country based pricing",
+//    "label": "Compatibility",
+//    "author": "Flycart",
+//    "version": "1.0.0",
+//    "description": "This adds compatibility with the Price Based on Country plugin for WooCommerce by Oscar Gare.",
+//    "icon_url": "https://raw.githubusercontent.com/flycartinc/wdr-addons/v3/icons-v3/wdr-country-based-pricing-compatibility.png",
+//    "addon_url": "https://www.flycart.org/products",
+//    "download_url": "",
+//    "plugin_file": "wdr-country-based-pricing-compatibility/wdr-country-based-pricing-compatibility.php",
+//    "page_url": "",
+//    "settings_url": "",
+//    "requires": {
+//      "wp": "5.3",
+//      "wc": "4.4",
+//      "wdr_core": "3.0",
+//      "wdr_pro": "3.0"
+//    },
+//    "dependencies": {},
+//    "is_pro": false
+//  },
+//  "compat_epo": {
+//    "name": "Extra product options",
+//    "label": "Compatibility",
+//    "author": "Flycart",
+//    "version": "1.0.0",
+//    "description": "This adds compatibility with the Extra product options For WooCommerce by ThemeHigh.",
+//    "icon_url": "https://raw.githubusercontent.com/flycartinc/wdr-addons/v3/icons-v3/wdr-product-options-compatibility.png",
+//    "addon_url": "https://www.flycart.org/products",
+//    "download_url": "",
+//    "plugin_file": "wdr-product-options-compatibility/wdr-product-options-compatibility.php",
+//    "page_url": "",
+//    "settings_url": "",
+//    "requires": {
+//      "wp": "5.3",
+//      "wc": "4.4",
+//      "wdr_core": "3.0",
+//      "wdr_pro": "3.0"
+//    },
+//    "dependencies": {},
+//    "is_pro": false
+//  }
 }
